@@ -19,5 +19,5 @@ docker compose up -d
 ```
 
 ## Stack usado
-* MongoDV
+* MongoDB
 * Nest
